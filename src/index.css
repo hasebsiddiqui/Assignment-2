@@ -1,0 +1,14 @@
+table {
+  font-family: arial, sans-serif;
+
+  width: 100%;
+}
+
+th {
+  border: 1px solid black;
+  text-align: left;
+}
+
+td {
+  background-color: #cccccc;
+}
