@@ -1,3 +1,6 @@
+This is the second assignment of my web cource that I have practiced in 6th Semester.
+This is created in REACT JS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
